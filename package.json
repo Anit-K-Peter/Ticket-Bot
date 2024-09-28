@@ -1,9 +1,8 @@
 {
     "name": "discord-tickets",
     "main": "main.js",
-    "author": "ZerioDev",
+    "author": "a bot by sebastian",
     "version": "1.0.0",
-    "repository": "https://github.com/ZerioDev/DiscordTickets.git",
     "description": "A cool Discord bot to manage tickets on your server",
     "scripts": {
         "start": "node main.js"
